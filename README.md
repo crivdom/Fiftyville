@@ -47,6 +47,5 @@ The most valuable part of the exercise was learning to break a broad problem int
 This project was completed as part of CS50x — Introduction to Computer Science by Harvard University.
 
 The original problem specification and starter materials were provided by CS50. The SQL investigation and solution queries in this repository represent my own coursework.
-This project was completed as part of **CS50x — Introduction to Computer Science** by Harvard University.
 
 The original problem specification and starter materials were provided by CS50. The SQL investigation and solution queries in this repository represent my own coursework.
