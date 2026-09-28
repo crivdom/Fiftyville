@@ -32,7 +32,7 @@ I identified records associated with the known location and timeframe of the inc
 
 Each query was used to test or eliminate potential leads. Results from one stage of the investigation informed the queries used in the next.
 
-### 5. Validate the conclusion
+### 4. Validate the conclusion
 
 Before reaching a final conclusion, I cross-referenced the remaining evidence across multiple records rather than relying on a single query result.
 
