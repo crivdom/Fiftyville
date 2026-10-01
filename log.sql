@@ -1,4 +1,4 @@
--- Keep a log of any SQL queries you execute as you solve the mystery.
+-- Log keeping file of the SQL queries used to solve the mystery.
 
 -- Search crime scene reports
 SELECT * FROM crime_Scene_reports WHERE year = 2025 AND month = 7 AND day = 28 AND street = "Humphrey Street";
